@@ -1,6 +1,4 @@
 # Wiki-Table-CSV-Downloader
-Wikipedia Table CSV Downloader
-
 This is a flask app that allows you to download tabled data from wikipedia as CSV files.
 
 Created after realizing pasting this into a google sheet performs a similar action:
